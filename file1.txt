@@ -1,0 +1,5 @@
+name aditya 
+class teit 
+age 21
+nashik 
+kbtcoe
