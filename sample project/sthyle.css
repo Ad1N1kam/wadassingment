@@ -1,0 +1,21 @@
+.hero {
+    background-image: url('https://source.unsplash.com/1600x600/?hotel,resort');
+    background-size: cover;
+    background-position: center;
+    padding: 120px 0;
+  }
+  
+  .hero h1 {
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+  }
+  
+  .room-img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
